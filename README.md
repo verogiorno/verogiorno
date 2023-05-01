@@ -1,4 +1,4 @@
-![Github Header](https://user-images.githubusercontent.com/131780847/235521457-e4e9126e-f1cb-48f2-9c07-4ac2ee39109f.png)
+![GitHubHeader](https://user-images.githubusercontent.com/131780847/235526824-4878c927-8c85-4d7c-a3c0-5470c8b7e160.png)
 
 ## **Hi👋 I'm Ronnie!**
 #### A frontend developer student
