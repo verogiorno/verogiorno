@@ -1,6 +1,7 @@
 ![Github Header](https://user-images.githubusercontent.com/131780847/235521457-e4e9126e-f1cb-48f2-9c07-4ac2ee39109f.png)
 
-### Hi👋 I'm Ronnie!
+## **Hi👋 I'm Ronnie!**
+<p style="text-align: center;"> #### A frontend developer student</p>
 
 <!--
 **verogiorno/verogiorno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
