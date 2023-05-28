@@ -1,6 +1,6 @@
 ![GitHubHeader](https://user-images.githubusercontent.com/131780847/235526824-4878c927-8c85-4d7c-a3c0-5470c8b7e160.png)
 
-<h1 align="center">Welcome to my profile! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋">😊</h1>
+<h1 align="center">Welcome to my profile! <img src="https://github.com/verogiorno/verogiorno/assets/131780847/0527d707-b45e-4fd9-9db3-16f3386d7b80" width="35px" alt="🤗"></h1>
 
 <h3 align="left">🌸About Me</h3>
 <p align="left">Hi!👋 My name is Verónica Giorno. I'm a 28-year-old woman who lives in Argentina.</p>
