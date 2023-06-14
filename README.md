@@ -3,7 +3,7 @@
 <h1 align="center">Welcome to my profile! <img src="https://github.com/verogiorno/verogiorno/assets/131780847/0527d707-b45e-4fd9-9db3-16f3386d7b80" width="35px" alt="🤗"></h1>
 
 <h3 align="left">🌸 About Me</h3>
-<p align="left">Hi!👋 My name is Verónica Giorno. I'm a 28-year-old woman who lives in Argentina.</p>
+<p align="left">Hi!👋 My name is Verónica Giorno. I'm a 29-year-old woman who lives in Argentina.</p>
 <p align="left">I'm a passionate Front-End Developer student who's eager to learn new things and expand my knowledge to create amazing, smooth and fun desings.</p>
 
 <h3 align="left"><strong>🛠️Languages & Tools</strong></h3>
